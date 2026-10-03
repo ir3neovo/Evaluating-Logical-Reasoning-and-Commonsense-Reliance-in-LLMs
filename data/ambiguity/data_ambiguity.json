@@ -1,0 +1,242 @@
+[
+  {
+    "id": "AMB_CLEAN_001",
+    "premise": "I didn't answer a question during the meeting.",
+    "hypothesis_wide": "I didn't answer any question during the meeting.",
+    "hypothesis_narrow": "There was a particular question during the meeting that I didn't answer.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "rewritten from user-provided ambiguity draft, inspired by McGill-NLP/scope-ambiguity"
+  },
+  {
+    "id": "AMB_CLEAN_002",
+    "premise": "I didn't remember a joke told on the TV show.",
+    "hypothesis_wide": "I didn't remember any joke told on the TV show.",
+    "hypothesis_narrow": "There was a particular joke told on the TV show that I didn't remember.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "rewritten from user-provided ambiguity draft, inspired by McGill-NLP/scope-ambiguity"
+  },
+  {
+    "id": "AMB_CLEAN_003",
+    "premise": "I didn't notice an error in my code.",
+    "hypothesis_wide": "I didn't notice any error in my code.",
+    "hypothesis_narrow": "There was a particular error in my code that I didn't notice.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "rewritten from user-provided ambiguity draft, inspired by McGill-NLP/scope-ambiguity"
+  },
+  {
+    "id": "AMB_CLEAN_004",
+    "premise": "I didn't review a chapter for the exam.",
+    "hypothesis_wide": "I didn't review any chapter for the exam.",
+    "hypothesis_narrow": "There was a particular chapter for the exam that I didn't review.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_005",
+    "premise": "I didn't submit a report before the deadline.",
+    "hypothesis_wide": "I didn't submit any report before the deadline.",
+    "hypothesis_narrow": "There was a particular report that I didn't submit before the deadline.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_006",
+    "premise": "Every student solved a challenging puzzle.",
+    "hypothesis_wide": "There was a single, specific challenging puzzle that every student solved.",
+    "hypothesis_narrow": "Each student solved some challenging puzzle, but the puzzles may have been different.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "rewritten from user-provided ambiguity draft, inspired by McGill-NLP/scope-ambiguity"
+  },
+  {
+    "id": "AMB_CLEAN_007",
+    "premise": "Every reviewer recommended a paper.",
+    "hypothesis_wide": "There was a single, specific paper that every reviewer recommended.",
+    "hypothesis_narrow": "Each reviewer recommended some paper, but the papers may have been different.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_008",
+    "premise": "Every child read a book before bed.",
+    "hypothesis_wide": "There was a single, specific book that every child read before bed.",
+    "hypothesis_narrow": "Each child read some book before bed, but the books may have been different.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_009",
+    "premise": "Every technician inspected a machine in the workshop.",
+    "hypothesis_wide": "There was a single, specific machine in the workshop that every technician inspected.",
+    "hypothesis_narrow": "Each technician inspected some machine in the workshop, but the machines may have been different.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_010",
+    "premise": "Every author cited a paper in the survey article.",
+    "hypothesis_wide": "There was a single, specific paper in the survey article that every author cited.",
+    "hypothesis_narrow": "Each author cited some paper in the survey article, but the papers may have been different.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_011",
+    "premise": "A new movie will be released every month.",
+    "hypothesis_wide": "There is a single, specific new movie that will be released every month.",
+    "hypothesis_narrow": "For each month, there will be some new movie release, but it may be a different movie each month.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "rewritten from user-provided ambiguity draft, inspired by McGill-NLP/scope-ambiguity"
+  },
+  {
+    "id": "AMB_CLEAN_012",
+    "premise": "A guard is stationed at every entrance to the palace.",
+    "hypothesis_wide": "There is a single, specific guard who is stationed at every entrance to the palace.",
+    "hypothesis_narrow": "For each entrance to the palace, there is some guard stationed there, but it need not be the same guard at every entrance.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "rewritten from user-provided ambiguity draft, inspired by McGill-NLP/scope-ambiguity"
+  },
+  {
+    "id": "AMB_CLEAN_013",
+    "premise": "A doctor is assigned to every clinic in the region.",
+    "hypothesis_wide": "There is a single, specific doctor who is assigned to every clinic in the region.",
+    "hypothesis_narrow": "For each clinic in the region, there is some doctor assigned there, but it need not be the same doctor for every clinic.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_014",
+    "premise": "A translator is present at every negotiation session.",
+    "hypothesis_wide": "There is a single, specific translator who is present at every negotiation session.",
+    "hypothesis_narrow": "For each negotiation session, there is some translator present, but it need not be the same translator at every session.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_015",
+    "premise": "A security camera monitors every hallway in the building.",
+    "hypothesis_wide": "There is a single, specific security camera that monitors every hallway in the building.",
+    "hypothesis_narrow": "For each hallway in the building, there is some security camera monitoring it, but it need not be the same camera in every hallway.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_016",
+    "premise": "A volunteer greets every visitor at the museum.",
+    "hypothesis_wide": "There is a single, specific volunteer who greets every visitor at the museum.",
+    "hypothesis_narrow": "For each visitor at the museum, there is some volunteer who greets that visitor, but it need not be the same volunteer for every visitor.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_017",
+    "premise": "A counselor met every student on the waiting list.",
+    "hypothesis_wide": "There is a single, specific counselor who met every student on the waiting list.",
+    "hypothesis_narrow": "For each student on the waiting list, there is some counselor who met that student, but it need not be the same counselor for every student.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_018",
+    "premise": "A mechanic checked every vehicle in the fleet.",
+    "hypothesis_wide": "There is a single, specific mechanic who checked every vehicle in the fleet.",
+    "hypothesis_narrow": "For each vehicle in the fleet, there is some mechanic who checked it, but it need not be the same mechanic for every vehicle.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_019",
+    "premise": "Every delegate asked a question during the session.",
+    "hypothesis_wide": "There was a single, specific question during the session that every delegate asked.",
+    "hypothesis_narrow": "Each delegate asked some question during the session, but the questions may have been different.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  },
+  {
+    "id": "AMB_CLEAN_020",
+    "premise": "Every nurse administered a medication to the patient.",
+    "hypothesis_wide": "There was a single, specific medication that every nurse administered to the patient.",
+    "hypothesis_narrow": "Each nurse administered some medication to the patient, but the medications may have been different.",
+    "possible_labels": [
+      "Entailment",
+      "Neutral"
+    ],
+    "ambiguity_type": "scope_ambiguity",
+    "source": "new item built from the same ambiguity pattern"
+  }
+]

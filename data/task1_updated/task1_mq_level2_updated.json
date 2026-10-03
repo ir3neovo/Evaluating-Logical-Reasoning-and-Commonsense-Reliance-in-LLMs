@@ -1,0 +1,86 @@
+[
+  {
+    "id": "T1_MQ_L2_005",
+    "statement": "A few squirrels audited every financial record in the firm. All squirrels who audited every financial record were promoted.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_005"
+  },
+  {
+    "id": "T1_MQ_L2_006",
+    "statement": "Not every puppy failed to perform every surgical procedure at the hospital. Every puppy that performed every surgical procedure received a certification.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_006"
+  },
+  {
+    "id": "T1_MQ_L2_007",
+    "statement": "Several mushrooms taught every advanced calculus course at the university. All mushrooms that taught every advanced calculus course earned tenure.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_007"
+  },
+  {
+    "id": "T1_MQ_L2_008",
+    "statement": "Not every toaster failed to inspect every satellite component in the lab. Every toaster that inspected every satellite component was praised by the supervisor.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_008"
+  },
+  {
+    "id": "T1_MQ_L2_013",
+    "statement": "Not every goldfish completed every marathon in the series. Every goldfish that completed every marathon earned a medal.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_013"
+  },
+  {
+    "id": "T1_MQ_L2_014",
+    "statement": "Several pencils graded every student essay in the department. All pencils that graded every essay were recognized by the dean.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_014"
+  },
+  {
+    "id": "T1_MQ_L2_015",
+    "statement": "A few hamsters managed every department in the corporation. All hamsters that managed every department received a leadership award.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_015"
+  },
+  {
+    "id": "T1_MQ_L2_016",
+    "statement": "Not every robot calibrated every laser in the observatory. Any robot that calibrated every laser logged a maintenance note.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_016"
+  },
+  {
+    "id": "T1_MQ_L2_021",
+    "statement": "A few pigeons repaired every aircraft at the military base. All pigeons that repaired every aircraft were awarded a medal.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_021"
+  },
+  {
+    "id": "T1_MQ_L2_022",
+    "statement": "Some snails conducted every clinical trial at the research center. Every snail that conducted every clinical trial was granted a license.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_022"
+  },
+  {
+    "id": "T1_MQ_L2_023",
+    "statement": "Several rocks taught every graduate seminar in the department. All rocks that taught every graduate seminar received tenure.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_023"
+  },
+  {
+    "id": "T1_MQ_L2_024",
+    "statement": "Exactly one teapot inspected every reactor in the facility. Only teapots that inspected every reactor triggered an alarm.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L2_024"
+  }
+]

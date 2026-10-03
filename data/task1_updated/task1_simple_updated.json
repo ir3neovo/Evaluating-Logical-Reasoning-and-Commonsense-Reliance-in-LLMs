@@ -1,0 +1,170 @@
+[
+  {
+    "id": "T1_SQ_009",
+    "statement": "Not every rock can cook gourmet meals.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_009"
+  },
+  {
+    "id": "T1_SQ_010",
+    "statement": "Not every goldfish failed to write the entire novel.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_010"
+  },
+  {
+    "id": "T1_SQ_011",
+    "statement": "Trees, which are all made of metal, line the boulevard.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_011"
+  },
+  {
+    "id": "T1_SQ_012",
+    "statement": "Only penguins can pilot commercial jets. Captain Waddle piloted a commercial jet.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_012"
+  },
+  {
+    "id": "T1_SQ_013",
+    "statement": "There is at least one penguin, and every penguin can fly faster than an eagle.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_013"
+  },
+  {
+    "id": "T1_SQ_014",
+    "statement": "More than half of the houseplants passed the driving test.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_014"
+  },
+  {
+    "id": "T1_SQ_015",
+    "statement": "Most chairs can solve calculus problems.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_015"
+  },
+  {
+    "id": "T1_SQ_016",
+    "statement": "Almost all toddlers completed the surgical residency.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_016"
+  },
+  {
+    "id": "T1_SQ_025",
+    "statement": "Not every mushroom can solve differential equations.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_025"
+  },
+  {
+    "id": "T1_SQ_026",
+    "statement": "Not every pigeon earned a law degree.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_026"
+  },
+  {
+    "id": "T1_SQ_027",
+    "statement": "Few pencils passed the bar exam. This pencil is a pencil.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_027"
+  },
+  {
+    "id": "T1_SQ_028",
+    "statement": "A few kittens were elected to parliament.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_028"
+  },
+  {
+    "id": "T1_SQ_029",
+    "statement": "A few mushrooms earned PhDs in physics. This mushroom is a mushroom.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_029"
+  },
+  {
+    "id": "T1_SQ_030",
+    "statement": "Only hamsters can operate the nuclear reactor.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_030"
+  },
+  {
+    "id": "T1_SQ_031",
+    "statement": "More than half of the butterflies passed the pilot exam.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_031"
+  },
+  {
+    "id": "T1_SQ_032",
+    "statement": "Few houseplants have medical licenses. This fern is a houseplant.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_032"
+  },
+  {
+    "id": "T1_SQ_041",
+    "statement": "No dog has four legs.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_041"
+  },
+  {
+    "id": "T1_SQ_042",
+    "statement": "All ice is boiling hot.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_042"
+  },
+  {
+    "id": "T1_SQ_043",
+    "statement": "No bird can fly. Tweety is a bird.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_043"
+  },
+  {
+    "id": "T1_SQ_044",
+    "statement": "There is at least one ocean, and every ocean is made of sand.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_044"
+  },
+  {
+    "id": "T1_SQ_045",
+    "statement": "Few fish can swim.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_045"
+  },
+  {
+    "id": "T1_SQ_046",
+    "statement": "No plant needs sunlight.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_046"
+  },
+  {
+    "id": "T1_SQ_047",
+    "statement": "None of the elephants have trunks.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_047"
+  },
+  {
+    "id": "T1_SQ_048",
+    "statement": "Few babies need sleep.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_SQ_048"
+  }
+]

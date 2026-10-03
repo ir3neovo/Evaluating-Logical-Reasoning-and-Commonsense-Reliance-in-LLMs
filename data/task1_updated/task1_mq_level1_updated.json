@@ -1,0 +1,86 @@
+[
+  {
+    "id": "T1_MQ_L1_005",
+    "statement": "At least one toddler operates every piece of heavy machinery in the factory.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_005"
+  },
+  {
+    "id": "T1_MQ_L1_006",
+    "statement": "Not every goldfish failed to diagnose every patient in the hospital ward.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_006"
+  },
+  {
+    "id": "T1_MQ_L1_007",
+    "statement": "At least one houseplant repaired every server in the data center.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_007"
+  },
+  {
+    "id": "T1_MQ_L1_008",
+    "statement": "More than one robot translated every ancient manuscript in the archive.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_008"
+  },
+  {
+    "id": "T1_MQ_L1_013",
+    "statement": "A few kittens piloted every commercial aircraft at the airport.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_013"
+  },
+  {
+    "id": "T1_MQ_L1_014",
+    "statement": "Not every rock graded every student essay in the department.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_014"
+  },
+  {
+    "id": "T1_MQ_L1_015",
+    "statement": "Some butterflies debugged every line of code in the repository.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_015"
+  },
+  {
+    "id": "T1_MQ_L1_016",
+    "statement": "Several teapots supervised every employee in the company.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_016"
+  },
+  {
+    "id": "T1_MQ_L1_021",
+    "statement": "No hamster managed every project in the company.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_021"
+  },
+  {
+    "id": "T1_MQ_L1_022",
+    "statement": "No pencil diagnosed every patient at the clinic.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_022"
+  },
+  {
+    "id": "T1_MQ_L1_023",
+    "statement": "No mushroom passed every licensing exam in the state.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_023"
+  },
+  {
+    "id": "T1_MQ_L1_024",
+    "statement": "No toaster repaired every satellite in orbit.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L1_024"
+  }
+]

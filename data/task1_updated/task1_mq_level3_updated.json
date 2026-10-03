@@ -1,0 +1,86 @@
+[
+  {
+    "id": "T1_MQ_L3_005",
+    "statement": "A few hamsters debugged every server in the data center. Every hamster that debugged every server supervised some technician. Each technician supervised by such a hamster received a security clearance.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_005"
+  },
+  {
+    "id": "T1_MQ_L3_006",
+    "statement": "Not every goldfish failed to conduct every audit at the bank. All goldfish that conducted every audit trained some junior analyst. Every junior analyst trained by such a goldfish passed the licensing exam.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_006"
+  },
+  {
+    "id": "T1_MQ_L3_007",
+    "statement": "Several pigeons designed every bridge in the city. Every pigeon that designed every bridge mentored some apprentice. Each apprentice mentored by such a pigeon submitted a portfolio.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_007"
+  },
+  {
+    "id": "T1_MQ_L3_008",
+    "statement": "More than one teapot audited every satellite link in the observatory. Any teapot that audited every link trained some technician. Every technician trained by such a teapot received a clearance badge.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_008"
+  },
+  {
+    "id": "T1_MQ_L3_013",
+    "statement": "A few kittens managed every warehouse in the district. All kittens that managed every warehouse supervised some clerk. Every clerk supervised by such a kitten filed a quarterly report.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_013"
+  },
+  {
+    "id": "T1_MQ_L3_014",
+    "statement": "No rock ever managed to teach every seminar in the philosophy department. Any rock that did teach every seminar advised some doctoral student. Every doctoral student advised by such a rock published a paper.",
+    "gold_truth_label": "True",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_014"
+  },
+  {
+    "id": "T1_MQ_L3_015",
+    "statement": "Several butterflies audited every account at the firm. All butterflies that audited every account mentored some trainee. Every trainee mentored by such a butterfly earned a certificate.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_015"
+  },
+  {
+    "id": "T1_MQ_L3_016",
+    "statement": "Exactly one mushroom directed every clinical trial at the hospital. Every mushroom that directed every trial supervised some research assistant. Every research assistant supervised by such a mushroom co-authored a paper.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_016"
+  },
+  {
+    "id": "T1_MQ_L3_021",
+    "statement": "A few snails inspected every nuclear reactor in the country. All snails that inspected every reactor trained some safety officer. Every safety officer trained by such a snail filed an incident report.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_021"
+  },
+  {
+    "id": "T1_MQ_L3_022",
+    "statement": "Some mushrooms directed every clinical trial at the hospital. Every mushroom that directed every trial supervised some research assistant. Each research assistant supervised by such a mushroom co-authored a paper.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_022"
+  },
+  {
+    "id": "T1_MQ_L3_023",
+    "statement": "Several pencils managed every construction project in the city. All pencils that managed every project hired some subcontractor. Every subcontractor hired by such a pencil submitted a final invoice.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_023"
+  },
+  {
+    "id": "T1_MQ_L3_024",
+    "statement": "Not every robot failed to inspect every launch pad at the spaceport. Every robot that inspected every launch pad trained some safety marshal. Every safety marshal trained by such a robot filed a compliance notice.",
+    "gold_truth_label": "False",
+    "source_type": "conflict",
+    "linked_t2_id": "T2_MQ_L3_024"
+  }
+]
